@@ -1,0 +1,27 @@
+#Compiled binary/executables
+*.out
+*.exe
+*.o
+*.obj
+
+#Backup/temporary files
+*~
+*.swp
+*.bak
+
+#Build directories
+/build/
+/bin/
+/dist/
+
+#VSCode setting (if used) 
+.vscode/
+
+#Mac system files
+.DS_Store
+
+# Output files (optional - if you generate these)
+energy_*.txt
+x_sol_*.txt
+*.log
+
